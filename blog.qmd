@@ -1,0 +1,10 @@
+---
+title: "Blog"
+listing:
+  contents: "blog/" # The folder containing your posts
+  sort: "date desc" # Sort posts by date, newest first
+  type: grid
+  grid-columns: 2
+  fields: [title, date, description] # Fields to display
+---
+

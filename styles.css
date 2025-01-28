@@ -1,0 +1,85 @@
+/* styles.css for Quarto Homepage */
+
+/* Body Text with Merriweather (serif) */
+body {
+  font-family: 'Roboto', sans-serif;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  line-height: 1.6;
+}
+
+/* Headings with Roboto (sans-serif) */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+  color: var(--primary-color);
+  margin: 1rem 0;
+}
+
+/* Other text elements */
+nav a, button {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+/* Base Colors */
+:root {
+  --primary-color: #9e2a2f; /* University of Copenhagen Red */
+  --secondary-color: #4e4e50; /* Neutral Dark Grey */
+  --background-color: #f9f9f9; /* Light Grey Background */
+  --text-color: #333333; /* Dark Grey for Text */
+  --accent-color: #0056a4; /* Muted Blue as an Accent */
+}
+
+/* Links */
+a {
+  color: var(--accent-color);
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+/* Navigation Bar */
+nav {
+  background-color: var(--primary-color);
+  padding: 1rem;
+}
+
+nav a {
+  color: white;
+  margin-right: 1rem;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+/* Main Content */
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.875rem;
+  color: var(--secondary-color);
+  background-color: #ffffff;
+  border-top: 1px solid var(--secondary-color);
+}
+
+/* Code Blocks */
+pre, code {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #f4f4f4;
+  padding: 0.5rem;
+  border-radius: 4px;
+}
+

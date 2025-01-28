@@ -1,0 +1,93 @@
+---
+title: ""
+metadata:
+  pagetitle: "Stefan Voigt"
+website:
+  page-navigation: true
+about:
+  id: hero-heading
+  template: trestles
+  image: avatar.jpg
+  image-width: 15em
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Mail
+      href: "mailto:stefan.voigt@econ.ku.dk"
+    - icon: github
+      text: Github
+      href: https://github.com/voigtstefan
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/voigtstefan/
+    - text: "{{< ai google-scholar >}} Scholar"
+      href: https://scholar.google.com/citations?user=_XM6ETcAAAAJ&hl=en
+
+---
+
+:::{#hero-heading}
+
+I am tenure-track assistant professor of Finance at the [Department of Economics at the University in Copenhagen](https://www.economics.ku.dk/) and a research fellow at the [Danish Finance Institute](https://danishfinanceinstitute.dk/).
+
+I have a deep interest in the economic implications and evolution of blockchain-based settlement in financial markets. 
+I pursue research questions related to market fragmentation, high frequency trading and big data in financial applications. 
+My research is thus anchored in the intersection of market microstructure, asset pricing and financial econometrics. 
+
+I am also co-author of the books [Tidy Finance with R and Tidy Finance with Python](https://tidy-finance.org?utm_source=voigtstefan.me), written with my colleagues [Christoph Frey](https://sites.google.com/site/christophfrey/), [Christoph Scheuch](https://christophscheuch.github.io/) and [Patrick Weiss](https://sites.google.com/view/patrick-weiss).
+
+:::
+
+# Work in progress {#working-papers}
+
+**Liquidity and Price Informativeness in Blockchain-Based Markets**
+
+**The DeFi Dilemma** (with [Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/) and [Aron Bodisz](https://www.vgsf.ac.at/students-graduates/students/aron-bodisz/))   
+
+**Market responses to a VIX impulse** (with [Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/) and [Albert J. Menkveld](https://albertjmenkveld.com/))
+
+**Uncertainty everywhere** (with [Patrick Weiss](https://sites.google.com/view/patrick-weiss), [Gregor Kastner](https://www.aau.at/team/kastner-gregor/), and Luis Gruber)
+
+# Publications
+
+**[Large Scale Portfolio Optimization under Transaction Costs and Model Uncertainty](https://doi.org/10.1016/j.jeconom.2019.04.028)** (Journal of Econometrics, 212 (1), 221-240) <br/>
+Joint work with [Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)
+
+::: {style="font-size: 70%;"}
+We theoretically and empirically study portfolio optimization under transaction costs and establish a link between turnover penalization and covariance shrinkage with the penalization governed by transaction costs. We show how the ex ante incorporation of transaction costs shifts optimal portfolios towards regularized versions of efficient allocations. The regulatory effect of transaction costs is studied in an econometric setting incorporating parameter uncertainty and optimally combining predictive distributions resulting from high-frequency and low-frequency data. In an extensive empirical study, we illustrate that turnover penalization is more effective than commonly employed shrinkage methods and is crucial in order to construct empirically well-performing portfolios.
+:::
+
+**[Building Trust Takes Time: Limits to Arbitrage for Blockchain-Based Assets](https://academic.oup.com/rof/article/28/4/1345/7609678?utm_source=authortollfreelink&utm_campaign=rof&utm_medium=email&guestAccessKey=ba104ee6-1cc7-4f3a-a2b6-6534646981c1)** (Review of Finance (2024), 28 (4), 1345–1381, [Dataset](https://datadryad.org/stash/dataset/doi:10.5061/dryad.q2bvq83rn), [Code](https://github.com/voigtstefan/building_trust_takes_time)) <br/>
+Joint work with [Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/) and [Christoph Scheuch](https://christophscheuch.github.io/)
+
+::: {style="font-size: 70%;"}
+A blockchain replaces central counterparties with time-consuming consensus protocols to record the transfer of ownership. This settlement latency slows cross-exchange trading, exposing arbitrageurs to price risk. Off-chain settlement, instead, exposes arbitrageurs to costly default risk. We show with Bitcoin network and order book data that cross-exchange price differences coincide with periods of high settlement latency, asset flows chase arbitrage opportunities, and price differences across exchanges with low default risk are smaller. Blockchain-based trading thus faces a dilemma: Reliable consensus protocols require time-consuming settlement latency, leading to arbitrage limits. Circumventing such arbitrage costs is possible only by reinstalling trusted intermediation, which mitigates default risk.
+:::
+**[Integrating Factor Models](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13226)** (The Journal of Finance (2023), 78, 1593-1646) <br/>
+Joint work with [Doron Avramov](https://faculty.runi.ac.il/davramov/), [Si Cheng](https://si-cheng.net/), and Lior Metzker
+
+::: {style="font-size: 70%;"}
+This paper develops a comprehensive framework to address uncertainty about the correct factor model. Asset pricing inferences draw on a composite model that integrates over competing factor models weighted by posterior probabilities. Evidence shows that unconditional models record zero probabilities, and post-earnings announcement drift, quality-minus-junk, and intermediary capital are incremental factors in conditional asset pricing. The integrated model tilts away from the subsequently underperforming factors, and delivers stable and admissible strategies. Model uncertainty makes equities appear considerably riskier, while model disagreement about expected returns spikes during crash episodes. Disagreement spans all return components involving mispricing, factor loadings, and risk premia.
+:::
+
+**[Non-standard Errors](https://onlinelibrary.wiley.com/doi/full/10.1111/jofi.13337)** (The Journal of Finance (2024), 79 (3), p. 2339 - 2390)
+Joint work with [Albert J. Menkveld](https://albertjmenkveld.com/) and 341 co-authors
+
+::: {style="font-size: 70%;"}
+In statistics, samples are drawn from a population in a data-generating process (DGP). Standard errors measure the uncertainty in estimates of population parameters. In science, evidence is generated to test hypotheses in an evidence-generating process (EGP). We claim that EGP variation across researchers adds uncertainty: Non-standard errors (NSEs). We study NSEs by letting 164 teams test the same hypotheses on the same data. NSEs turn out to be sizable, but smaller for better reproducible or higher rated research. Adding peer-review stages reduces NSEs. We further find that this type of uncertainty is underestimated by participants.
+::: 
+
+**[Tidy Finance with R](https://www.tidy-finance.org/r/)** (Chapman and Hall/CRC, 2023) <br/>
+Joint work with [Christoph Scheuch](https://christophscheuch.github.io/), [Patrick Weiss](https://sites.google.com/view/patrick-weiss)
+
+**[Tidy Finance with Python](https://www.tidy-finance.org/python/)** (Chapman and Hall/CRC, 2024)  <br/>
+Joint work with [Christoph Scheuch](https://christophscheuch.github.io/), [Patrick Weiss](https://sites.google.com/view/patrick-weiss), and [Christoph Frey](https://sites.google.com/site/christophfrey/)
+
+# Teaching
+
+**Important**: If you would like me to supervise your Master thesis at KU, do not hesitate to reach out to me **after** you read the information [here](blog/blog-thesis-supervision.qmd)
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/voigtstefan', text: 'Supervision meeting needed? Arrange here!', color: '#9e2a2f', textColor: '#f9f9f9', branding: false }); }</script>
+<!-- Calendly badge widget end -->

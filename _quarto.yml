@@ -1,0 +1,37 @@
+---
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Stefan Voigt"
+  site-url: https://voigtstefan.me/
+  description: "Personal website of Stefan Voigt"
+  open-graph: true
+  page-navigation: true
+  search: false
+  navbar:
+    left:
+      - href: index.qmd#working-papers
+        text: Working papers
+      - href: index.qmd#publications
+        text: Publications
+      - href: index.qmd#teaching
+        text: Teaching
+      - href: blog.qmd
+      - text: "{{< ai cv >}}"
+        href: documents/CV-SV.pdf
+
+
+format:
+  html:
+    theme: 
+      light: [cosmo, theme-light.scss]
+    css: styles.css
+    toc: false
+    section-divs: true
+    number-sections: false
+    embed-resources: false
+    anchor-sections: true
+    smooth-scroll: true
+    include-in-header: fonts.html
