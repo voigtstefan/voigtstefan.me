@@ -23,10 +23,10 @@ nav a, button {
 
 /* Base Colors */
 :root {
-  --primary-color: #9e2a2f; /* University of Copenhagen Red */
-  --secondary-color: #4e4e50; /* Neutral Dark Grey */
+  --primary-color: #901A1E; /* University of Copenhagen Red */
+  --secondary-color: #666666; /* Neutral Dark Grey */
   --background-color: #f9f9f9; /* Light Grey Background */
-  --text-color: #333333; /* Dark Grey for Text */
+  --text-color: #3d3d3d; /* Dark Grey for Text */
   --accent-color: #0056a4; /* Muted Blue as an Accent */
 }
 
