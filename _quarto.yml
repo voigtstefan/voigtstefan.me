@@ -26,7 +26,7 @@ website:
 format:
   html:
     theme: 
-      light: [cosmo, theme-light.scss]
+      light: [cosmo]
     css: styles.css
     toc: false
     section-divs: true
