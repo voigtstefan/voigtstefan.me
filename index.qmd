@@ -28,7 +28,7 @@ I am an associate professor of finance at the [Department of Economics, Universi
 
 I work at the intersection of asset pricing and financial econometrics, with a focus on big data and reproducibility. From 2027, the [Independent Research Fund Denmark](https://dff.dk/en) funds my project *In Data We Trust? Optimal Decisions Under Conceptual Uncertainty*.
 
-I am co-author of the books [Tidy Finance with R and Tidy Finance with Python](https://www.tidy-finance.org?utm_source=voigtstefan.me) and of the `tidyfinance` packages for R and Python, written with my colleagues [Christoph Frey](https://sites.google.com/site/christophfrey/), [Christoph Scheuch](https://christophscheuch.github.io/), and [Patrick Weiss](https://sites.google.com/view/patrick-weiss).
+I am co-author of the books [Tidy Finance with R and Tidy Finance with Python](https://www.tidy-finance.org?utm_source=voigtstefan.me), written with my colleagues [Christoph Frey](https://sites.google.com/site/christophfrey/), [Christoph Scheuch](https://christophscheuch.github.io/), and [Patrick Weiss](https://sites.google.com/view/patrick-weiss).
 
 :::
 
@@ -106,12 +106,6 @@ Chapman and Hall/CRC (2023)
 **[Limits to Arbitrage for Blockchain-Based Assets](https://doi.org/10.1007/978-981-95-2844-8)** <br/>
 with [Christoph Scheuch](https://christophscheuch.github.io/) and [Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/) <br/>
 In *The Blockchain Scholars Book*, edited by Daniel Liebau and Simon Trimborn, Springer Nature (2025)
-
-## Software
-
-**[`tidyfinance` for R](https://CRAN.R-project.org/package=tidyfinance)** and **[`tidyfinance` for Python](https://pypi.org/project/tidyfinance/)** <br/>
-with [Christoph Scheuch](https://christophscheuch.github.io/), [Patrick Weiss](https://sites.google.com/view/patrick-weiss), and [Christoph Frey](https://sites.google.com/site/christophfrey/) <br/>
-Open-source tools for standard empirical finance workflows: data access, factor construction, and portfolio analysis.
 
 # Teaching
 
