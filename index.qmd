@@ -54,8 +54,6 @@ with [Christoph Scheuch](https://christophscheuch.github.io/)
 **The DeFi Dilemma** <br/>
 with [Aron Bodisz](https://www.vgsf.ac.at/students-graduates/students/aron-bodisz/) and [Nikolaus Hautsch](https://homepage.univie.ac.at/nikolaus.hautsch/)
 
-## Work in progress
-
 **Buying Alpha, Buying Beta** <br/>
 with Christoph Wegener, Rainer Schüssler, and Douglas Eduardo Turatti
 
@@ -109,7 +107,7 @@ In *The Blockchain Scholars Book*, edited by Daniel Liebau and Simon Trimborn, S
 
 # Teaching
 
-At the University of Copenhagen, I coordinate the MSc courses **Advanced Empirical Finance: Topics and Data Science**, built on the [Tidy Finance](https://www.tidy-finance.org?utm_source=voigtstefan.me) curriculum, and **Financial Decision-Making**.
+At the University of Copenhagen, I coordinate the MSc courses **[Advanced Empirical Finance: Topics and Data Science](https://aef-course.ku.dk/)**, built on the [Tidy Finance](https://www.tidy-finance.org?utm_source=voigtstefan.me) curriculum, and **Financial Decision-Making**.
 
 **Thesis supervision:** If you would like me to supervise your bachelor project or master's thesis at KU, get in touch **after** you have read [my supervision guidelines](supervision.qmd).
 
