@@ -1,0 +1,31 @@
+---
+title: "Thesis supervisor needed? Get in touch!"
+# Old address of this page, kept as a redirect so existing links still work.
+aliases:
+  - blog/blog-thesis-supervision.html
+---
+
+I regularly supervise empirical bachelor projects and master's theses in finance on the following topics: **machine learning applications in asset pricing and optimal portfolio choice**.
+
+Do you share my enthusiasm for either of these fields? Excellent, let us get in touch!
+
+If you would like me to supervise your thesis, do not hesitate to reach out to me *after* you have read the information below. To make the supervision process as smooth as possible for you, I follow a general structure and enforce a few rules:
+
+-	Before we get started: Send me an email with a description of your proposed topic of at most one page. State a first research question and give a reference to one (not more, not less!) published journal article that you are excited about and that is closest and most relevant to your own project (preferably from one of the top three finance journals: *The Journal of Finance*, *Review of Financial Studies*, or *Journal of Financial Economics*). Briefly outline how you want to study the question, whether you already have access to the required data, and any problems that could arise along the way – the earlier we discuss potential problems, the easier the upcoming months will be.
+
+-	If I have supervision capacity, I will give you structured feedback on your project so that you can start as smoothly as possible. Use my feedback to update your project description and to draft a preliminary roadmap (with precise dates on which you plan to finish the individual steps). This roadmap is part of the supervision contract.
+
+-	During the semester: It is your responsibility to reach out by email when you feel that a meeting is most useful – sometimes there are many important changes, and sometimes you just need time to work on the project yourself. I do not enforce a strict schedule of meetings; instead, you sign up for meetings (up to four for master's students, up to two for bachelor students) by email. Let me know at least eight working days in advance that you want to meet.
+
+-	Before a supervision meeting: I enforce a clear structure for supervision meetings, which requires ongoing self-assessment. At least 48 hours before the meeting, send me your current manuscript and a self-assessment (at most one page) with your most relevant questions (at most three) and your own view of where the project stands, including an updated version of your timeline. These notes are your reflections on where you are in the process, what you feel comfortable about, and where you are in doubt. I base my supervision on these notes. Note: Without the self-assessment and the manuscript in due time, I will cancel the meeting without replacement, as I cannot give you high-level feedback without appropriate preparation material.
+
+-	During the supervision meeting: I will have read your documents beforehand and give feedback on my general assessment, the specific questions you highlighted, and the most critical tasks going forward. If necessary, you will receive an email with my annotations on your manuscript after the meeting, so that we do not spend meeting time on grammar, typos, or formatting.
+
+-	At the latest 48 hours after the meeting: Send me an updated roadmap. Once I have signed it off, you are ready to proceed.
+
+I look forward to hearing about your research project!
+
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/voigtstefan/supervision-meeting" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->

@@ -1,6 +1,13 @@
-/* styles.css for Quarto Homepage */
+/* Site styles on top of the Bootstrap "cosmo" theme. Roboto is loaded in fonts.html. */
 
-/* Body Text with Merriweather (serif) */
+:root {
+  --primary-color: #901A1E;    /* University of Copenhagen red */
+  --secondary-color: #666666;  /* Neutral dark grey */
+  --background-color: #f9f9f9; /* Light grey background */
+  --text-color: #3d3d3d;       /* Dark grey for text */
+  --accent-color: #0056a4;     /* Muted blue for links */
+}
+
 body {
   font-family: 'Roboto', sans-serif;
   color: var(--text-color);
@@ -8,26 +15,10 @@ body {
   line-height: 1.6;
 }
 
-/* Headings with Roboto (sans-serif) */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', sans-serif;
   color: var(--primary-color);
   margin: 1rem 0;
-}
-
-/* Other text elements */
-nav a, button {
-  font-family: 'Roboto', sans-serif;
-}
-
-
-/* Base Colors */
-:root {
-  --primary-color: #901A1E; /* University of Copenhagen Red */
-  --secondary-color: #666666; /* Neutral Dark Grey */
-  --background-color: #f9f9f9; /* Light Grey Background */
-  --text-color: #3d3d3d; /* Dark Grey for Text */
-  --accent-color: #0056a4; /* Muted Blue as an Accent */
 }
 
 /* Links */
@@ -42,13 +33,14 @@ a:hover {
   text-decoration: underline;
 }
 
-/* Navigation Bar */
+/* Navigation bar */
 nav {
   background-color: var(--primary-color);
   padding: 1rem;
 }
 
 nav a {
+  font-family: 'Roboto', sans-serif;
   color: white;
   margin-right: 1rem;
   font-weight: bold;
@@ -58,11 +50,25 @@ nav a:hover {
   text-decoration: underline;
 }
 
-/* Main Content */
+/* Main content */
 main {
   max-width: 800px;
   margin: 2rem auto;
   padding: 1rem;
+}
+
+/* Paper abstracts below each publication */
+.abstract {
+  font-size: 0.8rem;
+  color: var(--secondary-color);
+  margin: 0.25rem 0 1.5rem 0;
+}
+
+/* Short status notes (prizes, journal status) below a paper */
+.note {
+  font-size: 0.9rem;
+  font-style: italic;
+  color: var(--secondary-color);
 }
 
 /* Footer */
@@ -74,12 +80,3 @@ footer {
   background-color: #ffffff;
   border-top: 1px solid var(--secondary-color);
 }
-
-/* Code Blocks */
-pre, code {
-  font-family: 'Courier New', Courier, monospace;
-  background-color: #f4f4f4;
-  padding: 0.5rem;
-  border-radius: 4px;
-}
-
