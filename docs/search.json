@@ -14,24 +14,10 @@
     "text": "Mail\n  \n  \n    \n     GitHub\n  \n  \n    \n     LinkedIn\n  \n  \n      Scholar\n  \n\n  \n  \nI am an associate professor of finance at the Department of Economics, University of Copenhagen, and a research scholar at the Danish Finance Institute. I am also an affiliated member of the European Blockchain Center and the Pioneer Centre for Artificial Intelligence.\nI work at the intersection of asset pricing and financial econometrics, with a focus on big data and reproducibility. From 2027, the Independent Research Fund Denmark funds my project In Data We Trust? Optimal Decisions Under Conceptual Uncertainty.\nI am co-author of the books Tidy Finance with R and Tidy Finance with Python, written with my colleagues Christoph Frey, Christoph Scheuch, and Patrick Weiss."
   },
   {
-    "objectID": "index.html#work-in-progress",
-    "href": "index.html#work-in-progress",
-    "title": "Working papers",
-    "section": "Work in progress",
-    "text": "Work in progress\nBuying Alpha, Buying Beta  with Christoph Wegener, Rainer Schüssler, and Douglas Eduardo Turatti"
-  },
-  {
     "objectID": "index.html#books-and-book-chapters",
     "href": "index.html#books-and-book-chapters",
     "title": "Working papers",
     "section": "Books and book chapters",
     "text": "Books and book chapters\nTidy Finance with Python  with Christoph Scheuch, Patrick Weiss, and Christoph Frey  Chapman and Hall/CRC (2024)\nTidy Finance with R  with Christoph Scheuch and Patrick Weiss  Chapman and Hall/CRC (2023)\nLimits to Arbitrage for Blockchain-Based Assets  with Christoph Scheuch and Nikolaus Hautsch  In The Blockchain Scholars Book, edited by Daniel Liebau and Simon Trimborn, Springer Nature (2025)"
-  },
-  {
-    "objectID": "index.html#software",
-    "href": "index.html#software",
-    "title": "Working papers",
-    "section": "Software",
-    "text": "Software\ntidyfinance for R and tidyfinance for Python  with Christoph Scheuch, Patrick Weiss, and Christoph Frey  Open-source tools for standard empirical finance workflows: data access, factor construction, and portfolio analysis."
   }
 ]
